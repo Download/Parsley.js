@@ -1,5 +1,7 @@
 # Parsley
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/Parsley.js.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/guillaumepotier/Parsley.js.svg?branch=master)](https://travis-ci.org/guillaumepotier/Parsley.js)
 
 JavaScript form validation, without actually writing a single line of JavaScript!
